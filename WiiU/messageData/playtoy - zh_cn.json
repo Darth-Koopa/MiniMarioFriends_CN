@@ -1,0 +1,6590 @@
+{
+    "Messages": {
+        "btn_no": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いいえ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "否"
+            }
+        },
+        "btn_ok": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "OK"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是"
+            }
+        },
+        "btn_yes": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はい"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是"
+            }
+        },
+        "btn_next": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つぎへ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "下一个"
+            }
+        },
+        "btn_close": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "とじる"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关闭"
+            }
+        },
+        "msg_homeMenu": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "：HOMEメニューにもどります。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "：返回桌面"
+            }
+        },
+        "lbl_goalScore": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ターゲットスコア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖杯得分"
+            }
+        },
+        "lbl_prefixWorld_00": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关卡"
+            }
+        },
+        "lbl_prefixWorld_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ドンキーコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "森喜刚"
+            }
+        },
+        "lbl_prefixWorld_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ディディーコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迪迪刚"
+            }
+        },
+        "lbl_prefixWorld_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ヨッシー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "耀西"
+            }
+        },
+        "lbl_prefixWorld_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "马力欧"
+            }
+        },
+        "lbl_prefixWorld_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピーチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "桃花公主"
+            }
+        },
+        "lbl_prefixWorld_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キノピオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奇诺比奥"
+            }
+        },
+        "lbl_prefixWorld_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ルイージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "路易吉"
+            }
+        },
+        "lbl_prefixWorld_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "クッパJr."
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "酷霸王二世"
+            }
+        },
+        "lbl_prefixWorld_09": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "クッパ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "酷霸王"
+            }
+        },
+        "lbl_prefixWorld_10": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ロゼッタ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "罗莎塔"
+            }
+        },
+        "lbl_prefixWorld_11": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スター"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "星星"
+            }
+        },
+        "msg_returnTitle": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タイトルにもどりますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "返回标题界面？"
+            }
+        },
+        "msg_removeAmiibo": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "下画面またはNFCリーダー/ライターから\namiiboをとりのぞいてください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "请将amiibo从NFC区域拿开。"
+            }
+        },
+        "msg_removeNotAmiibo": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "下画面またはNFCリーダー/ライターの上に\nものをおかないでください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "请将它从NFC区域拿开。"
+            }
+        },
+        "msg_notAmiibo": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ご使用の製品は\n　amiiboではありません。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "您使用的不是一个amiibo人物。"
+            }
+        },
+        "msg_amiiboUnsupported": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このamiiboはサポートされて\nいないため、ご使用になれません。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "不支持这个amiibo。"
+            }
+        },
+        "msg_amiiboNotRegistered_Top": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このamiiboをご使用になるには\namiiboの登録がひつようです。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个amiibo必须先注册才能使用。"
+            }
+        },
+        "msg_amiiboNotRegistered_Bottom": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの登録がひつようです。\n「amiibo設定」でこのamiiboを\n登録しますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个amiibo必须先注册才能使用。\n现在前往amiibo设置注册您的amiibo吗？"
+            }
+        },
+        "msg_amiiboCorrupted_Top": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboのデータがこわれています。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "amiibo数据已损坏。"
+            }
+        },
+        "msg_amiiboCorruptNoBackupData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboのデータがこわれています。\nこのamiiboであそんだことがある\nゲーム機本体からデータを\n復旧できるかもしれません。\nまたは、「HOMEメニュー設定」の\n「amiibo設定」でデータを\n初期化できます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "amiibo数据已损坏。\n如果您有一个以前访问过这个amiibo的任天堂设备，\n您可以恢复数据。\n或者，您可以从「开始菜单 设定」项的「amiibo设置」中重置amiibo。"
+            }
+        },
+        "msg_amiiboCorruptBackupData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboのデータがこわれています。\n「HOMEメニュー設定」の\n「amiibo設定」でデータを\n復旧しますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "amiibo数据已损坏。\n您要还原系统上保存的数据吗？"
+            }
+        },
+        "msg_amiiboIntro_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ようこそ! \nこのゲームでは、これらのキャラクターの\namiiboをトイキャラクターとして\n登場させてあそぶことができます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "欢迎来到《迷你马力欧和朋友们：amiibo挑战》！\n在游戏中，你可以使用上面展示的\n这些amiibo作为超能迷你玩具。"
+            }
+        },
+        "msg_amiiboIntro_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "もし、他のキャラクターのamiiboしか\n持ってなくてもだいじょうぶ!\nその場合は、かわりにミニスペックを\n登場させてあそぶことができます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "如果你没有这些amiibo也没关系！\n你可以通过其他amiibo\n使用迷你佩克来游玩。"
+            }
+        },
+        "msg_tutorialPrompt": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "おためしステージで\nこのトイキャラクターの\nアビリティをかくにんしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "你想尝试这个迷你玩具的教学关卡，\n体验它的能力吗？"
+            }
+        },
+        "msg_worldMapSwapIntro_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboでWii U GamePadの  をタッチすれば\nいつでもトイキャラクターを入れかえることができます。\nまた、amiiboボタンからすべてのトイキャラクターの\nアビリティをかくにんすることができます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "将amiibo放到WiiU GamePad的  上来切换amiibo；\n通过点击amiibo按钮来查看迷你玩具的能力。"
+            }
+        },
+        "msg_worldMapSwapIntro_3DS": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboボタンから、それぞれの\nトイキャラクターのアビリティを\nかくにんしたり、トイキャラクターを\n入れかえたりすることができます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "按下amiibo按钮，可以查看每个迷你玩具的能力，\n或者切换新的迷你玩具。"
+            }
+        },
+        "msg_playtimeAdBottom": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ニンテンドーeショップで、「マリオvs.\nドンキーコング みんなでミニランド」の\nさらにくわしい情報をご覧いただけます。\nニンテンドーeショップをはじめるには\nソフトを終了するひつようがあります。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "点击下面的按钮来访问任天堂eShop，来了解更多关于\n《马力欧VS森喜刚：翻转星星》的信息。\n这将会停止当前的游戏。"
+            }
+        },
+        "msg_playtimeAdTop": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「マリオvs.ドンキーコング みんなでミニランド」の\nステージ数は80種類以上! 自分のつくったステージを\n世界中のプレイヤーと共有することができます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "《马力欧VS森喜刚：翻转星星》有80多个关卡等你解决！\n此外，您可以进入在线社区中创建和分享谜题，\n供别的玩家游玩、讨论和评价。"
+            }
+        },
+        "msg_playtimeAdWiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「マリオvs.ドンキーコング みんなでミニランド」のステージ数は\n80種類以上! 自分のつくったステージを世界中のプレイヤーと\n共有することができます! ニンテンドーeショップで\nさらにくわしい情報をご覧いただけます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "《马力欧VS森喜刚：翻转星星》有80多个关卡等你解决！\n此外，您可以进入在线社区中创建和分享谜题，\n供别的玩家游玩、讨论和评价。\n打开任天堂eShop来获取更多有关《马力欧VS森喜刚：翻转星星》的信息。"
+            }
+        },
+        "btn_playtimeAdShop": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ニンテンドーeショップへ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "启动任天堂eShop"
+            }
+        },
+        "btn_playtimeAdClose": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "とじる"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关闭"
+            }
+        },
+        "lbl_amiibo": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiibo："
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "amiibo："
+            }
+        },
+        "msg_amiiboSelect01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboを下画面にタッチ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "请放一个amiibo到屏幕上！"
+            }
+        },
+        "msg_amiiboFang01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "NFCリーダー/ライターの電源を入れて\nNFCリーダー/ライターと3DS本体の\n赤外線受発光部を向かい合わせてください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "打开NFC阅读器/写入器，\n并将其面向任天堂3DS系统的红外收发器。"
+            }
+        },
+        "msg_amiiboFang02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboをNFCリーダー/ライターにタッチ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "请将amiibo放到NFC区域！"
+            }
+        },
+        "msg_amiiboSelectCa": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "とじるには  をおしてください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "按  关闭。"
+            }
+        },
+        "btn_helpCredits": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "クレジット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "开发名单"
+            }
+        },
+        "msg_cantPlayMarioLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニマリオでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你马力欧能玩。"
+            }
+        },
+        "msg_cantPlayDonkeyKongLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニDKでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你森喜刚能玩。"
+            }
+        },
+        "msg_cantPlayPeachLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニピーチでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你桃花公主能玩。"
+            }
+        },
+        "msg_cantPlayToadLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニキノピオでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你奇诺比奥能玩。"
+            }
+        },
+        "msg_cantPlayLuigiLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニルイージでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你路易吉能玩。"
+            }
+        },
+        "msg_cantPlayBowserLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニクッパでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你酷霸王能玩。"
+            }
+        },
+        "msg_cantPlayRosalinaLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニロゼッタでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你罗莎塔能玩。"
+            }
+        },
+        "msg_cantPlayYoshiLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニヨッシーでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你耀西能玩。"
+            }
+        },
+        "msg_cantPlayDiddyKongLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージは\nミニディディーコングでのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你迪迪刚能玩。"
+            }
+        },
+        "msg_cantPlayBowserJrLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージはミニクッパJr.でのみ\n　プレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡只有迷你酷霸王二世能玩。"
+            }
+        },
+        "msg_amiiboRequired": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このゲームをプレイするには、amiiboがひつようです。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个游戏需要amiibo才能玩。"
+            }
+        },
+        "msg_amiiboRequiredFangate": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このゲームをプレイするには\nニンテンドー3DS NFCリーダー/ライターと\namiiboがひつようです。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个游戏需要一个任天堂3DS NFC读写器\n和amiibo来玩。"
+            }
+        },
+        "msg_amiiboRequiredSnake": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このゲームをプレイするには\namiiboがひつようです。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个游戏需要amiibo才能玩。"
+            }
+        },
+        "msg_advertDonkeyKong_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「タルジェットジャングル」は\nミニDKでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你森喜刚才能进入炸弹桶丛林！"
+            }
+        },
+        "msg_advertDonkeyKong_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ドンキーコングのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过森喜刚amiibo来切换。"
+            }
+        },
+        "msg_advertDiddyKong_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「マインカートベイ」は\nミニディディーコングでのみ\nプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你迪迪刚才能进入矿车湾！"
+            }
+        },
+        "msg_advertDiddyKong_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ディディーコングのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过迪迪刚amiibo来切换。"
+            }
+        },
+        "msg_advertYoshi_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「エッグランチャーバレー」は\nミニヨッシーでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你耀西才能进入蛋蛋发射场！"
+            }
+        },
+        "msg_advertYoshi_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ヨッシーのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过耀西amiibo来切换。"
+            }
+        },
+        "msg_advertMario_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「スプリンターヒルズ」は\nミニマリオでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你马力欧才能进入凌特山庄！"
+            }
+        },
+        "msg_advertMario_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マリオのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过马力欧amiibo来切换。"
+            }
+        },
+        "msg_advertPeach_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「バルーンガーデン」は\nミニピーチでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你桃花公主才能进入气球花园！"
+            }
+        },
+        "msg_advertPeach_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピーチのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过桃花公主amiibo来切换。"
+            }
+        },
+        "msg_advertToad_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「マッシュルームハイランド」は\nミニキノピオでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你奇诺比奥才能进入蘑菇山丘！"
+            }
+        },
+        "msg_advertToad_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キノピオのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过奇诺比奥amiibo来切换。"
+            }
+        },
+        "msg_advertLuigi_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「ムーンライトマンション」は\nミニルイージでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你路易吉才能进入月光大厦！"
+            }
+        },
+        "msg_advertLuigi_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ルイージのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过路易吉amiibo来切换。"
+            }
+        },
+        "msg_advertBowserJr_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「トルネードケーブ」は\nミニクッパJr.でのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你酷霸王二世才能进入龙卷风洞穴！"
+            }
+        },
+        "msg_advertBowserJr_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "クッパJr.のamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过酷霸王二世amiibo来切换。"
+            }
+        },
+        "msg_advertBowser_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「フレイムキャッスル」は\nミニクッパでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你酷霸王才能进入火焰城堡！"
+            }
+        },
+        "msg_advertBowser_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "クッパのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过酷霸王amiibo来切换。"
+            }
+        },
+        "msg_advertRosalina_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「グラビティギャラクシー」は\nミニロゼッタでのみプレイできます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你罗莎塔才能进入重力银河！"
+            }
+        },
+        "msg_advertRosalina_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ロゼッタのamiiboを\n使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "通过罗莎塔amiibo来切换。"
+            }
+        },
+        "msg_advertDonkeyKong_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「タルジェットジャングル」はミニDKでのみプレイできます!\nドンキーコングのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你森喜刚才能进入炸弹桶丛林！\n通过森喜刚amiibo来切换。"
+            }
+        },
+        "msg_advertDiddyKong_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「マインカートベイ」はミニディディーコングでのみプレイできます!\nディディーコングのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你迪迪刚才能进入矿车湾！\n通过迪迪刚amiibo来切换。"
+            }
+        },
+        "msg_advertYoshi_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「エッグランチャーバレー」はミニヨッシーでのみプレイできます!\nヨッシーのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你耀西才能进入蛋蛋发射场！\n通过耀西amiibo来切换。"
+            }
+        },
+        "msg_advertMario_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「スプリンターヒルズ」はミニマリオでのみプレイできます!\nマリオのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你马力欧才能进入凌特山庄！\n通过马力欧amiibo来切换。"
+            }
+        },
+        "msg_advertPeach_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「バルーンガーデン」はミニピーチでのみプレイできます!\nピーチのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你桃花公主才能进入气球花园！\n通过桃花公主amiibo来切换。"
+            }
+        },
+        "msg_advertToad_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「マッシュルームハイランド」はミニキノピオでのみプレイできます!\nキノピオのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你奇诺比奥才能进入蘑菇山丘！\n通过奇诺比奥amiibo来切换。"
+            }
+        },
+        "msg_advertLuigi_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「ムーンライトマンション」はミニルイージでのみプレイできます!\nルイージのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你路易吉才能进入月光大厦！\n通过路易吉amiibo来切换。"
+            }
+        },
+        "msg_advertBowserJr_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「トルネードケーブ」はミニクッパJr.でのみプレイできます!\nクッパJr.のamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你酷霸王二世才能进入龙卷风洞穴！\n通过酷霸王二世amiibo来切换。"
+            }
+        },
+        "msg_advertBowser_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「フレイムキャッスル」はミニクッパでのみプレイできます!\nクッパのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你酷霸王才能进入火焰城堡！\n通过酷霸王amiibo来切换。"
+            }
+        },
+        "msg_advertRosalina_wiiU": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「グラビティギャラクシー」はミニロゼッタでのみプレイできます!\nロゼッタのamiiboを使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "只有迷你罗莎塔才能进入重力银河！\n通过罗莎塔amiibo来切换。"
+            }
+        },
+        "msg_starWorldUnlock": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "オープンしました!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "解锁！"
+            }
+        },
+        "msg_allLevelsComplete": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "全ステージクリア!!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "完成了全部关卡！"
+            }
+        },
+        "msg_allTrophies": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゲームコンプリート!!!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "已收集全部奖杯！"
+            }
+        },
+        "lbl_toyName_dK": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニDK"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你森喜刚"
+            }
+        },
+        "lbl_toyName_diddyKong": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニディディーコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你迪迪刚"
+            }
+        },
+        "lbl_toyName_yoshi": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニヨッシー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你耀西"
+            }
+        },
+        "lbl_toyName_peach": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニピーチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主"
+            }
+        },
+        "lbl_toyName_mario": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你马力欧"
+            }
+        },
+        "lbl_toyName_toad": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニキノピオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥"
+            }
+        },
+        "lbl_toyName_luigi": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニルイージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉"
+            }
+        },
+        "lbl_toyName_bowserJr": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニクッパJr."
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你酷霸王二世"
+            }
+        },
+        "lbl_toyName_bowser": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニクッパ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你酷霸王"
+            }
+        },
+        "lbl_toyName_rosalina": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニロゼッタ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你罗莎塔"
+            }
+        },
+        "lbl_toyName_spek": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニスペック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你佩克"
+            }
+        },
+        "msg_tokenLockCollectMore": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージをあそぶには\n%dまいのamiiboパスがひつようです。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "你需要收集 %d 枚amiibo奖牌来解锁关卡。"
+            }
+        },
+        "msg_mapScrollIntro": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Rスティックでマップ全体を\nかくにんすることができます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "您能用  右摇杆来环顾四周。"
+            }
+        },
+        "msg_wifiOff": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "無線スイッチをスライドするか\nHOMEメニューの設定画面から\n無線通信/NFCをONにしてください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "现在您无法使用amiibo。\n请开启无线通信来使用amiibo。"
+            }
+        },
+        "msg_updateNFC": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "NFCリーダー/ライターの更新が必要です。\namiibo設定からNFCリーダー/ライターを\n更新してください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "NFC读写器需要更新。\n通过amiibo设置来更新NFC读写器。"
+            }
+        },
+        "msg_resultIrFunctionError": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "赤外線通信エラーが\n発生しました。\n3DS シリーズ本体の電源をOFFにしてから\nやり直してください。\n\n症状が直らない場合は\n本体の取扱説明書に記載されている\n任天堂サービスセンターへ\nお問い合わせください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红外通信错误。\n请重启3DS电源并重试。\n\n如果问题仍然存在，\n请联系任天堂客服。有关联系方式，请查看操作手册或访问support.nintendo.com。"
+            }
+        },
+        "msg_resultNfcTargetError": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "NFCリーダー/ライターとの\n通信に失敗しました。\nNFCリーダー/ライターの\n電源をOFFにしてからやり直してください。\n\n症状が直らない場合は\n本体の取扱説明書に記載されている\n任天堂サービスセンターへ\nお問い合わせください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "NFC读写器发生通信错误。\n请重启NFC电源并重试。\n\n如果问题仍然存在，\n请联系任天堂客服。有关联系方式，请查看操作手册或访问support.nintendo.com。"
+            }
+        },
+        "msg_amiiboErrorReading": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboのデータを\nよみこめませんでした。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "amiibo数据读取失败。"
+            }
+        },
+        "msg_mainStreetSuccess": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "すべてのメインステージをクリアしました!\nつぎはスターワールドにちょうせんだ!\nトイキャラクターのアビリティを使って\namiiboパスを集め、スターワールドの\nスペシャルステージをオープンしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "完成了全部的主线关卡！\n接下来在星星世界里继续挑战吧！\n合理运用迷你玩具们的能力收集amiibo奖牌，\n解锁星星世界的特别关卡吧！"
+            }
+        },
+        "msg_allLevelsCompleted": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "すばらしい! すべてのステージをクリアしました!!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "干得漂亮！你完成了全部的关卡！"
+            }
+        },
+        "lbl_mapNickname": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "by: "
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "制作者："
+            }
+        },
+        "lbl_mapGoalScore": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ターゲットスコア："
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "目标分数："
+            }
+        },
+        "lbl_levelName": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关卡"
+            }
+        },
+        "msg_bridgeUnlock_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "2体のamiiboを使って橋を下げよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "消费2个amiibo，把桥放下来吧！"
+            }
+        },
+        "msg_bridgeUnlock_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "そのちょうし! amiiboをもう1体おいてみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "士气高涨！还有1个amiibo剩下喔！"
+            }
+        },
+        "msg_bridgeUnlock_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "橋が下がりました!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "桥放下来了！"
+            }
+        },
+        "lbl_score": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ハイスコア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "高分记录"
+            }
+        },
+        "msg_starLevelUnlocked": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "(TEMP) You have unlocked a Star level! Use the teleporter when you want to leave the Star World."
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "(TEMP) 你解锁了一个星星关卡！如果要返回星星世界，请使用旁边的传送器。"
+            }
+        },
+        "msg_tokenLockUnlocked": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "(TEMP) You have enough amiibo Tokens to unlock the next set of levels!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "(TEMP) 你已经拥有了足够的amiibo奖牌来解锁新关卡！"
+            }
+        },
+        "lbl_mapHighScore": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "High Score: "
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "高分记录："
+            }
+        }
+    },
+    "credits": {
+        "msg_creditsGraphic_00": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_creditsGraphic_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": ""
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "msg_credits_01_left": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Nintendo Software Technology\n\nDirector\nStephen Mortimer"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "任天堂软件技术部\n\n监督\nStephen Mortimer"
+            }
+        },
+        "msg_credits_01_right": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Designers \nChris Polney\nPhilip Brodsky\n\nDesigners (Contractor)\nPaul Kranich\nJessica Zamora"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "设计师 \nChris Polney\nPhilip Brodsky\n\n设计师（外包）\nPaul Kranich\nJessica Zamora"
+            }
+        },
+        "msg_credits_02_left": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Engineers\nJonathan Johnson\nRory Johnston\nYoonjoon Lee\nNathanial Long\nRyan Lynd\nMichael Kron"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "工程师\nJonathan Johnson\nRory Johnston\nYoonjoon Lee\nNathanial Long\nRyan Lynd\nMichael Kron"
+            }
+        },
+        "msg_credits_02_right": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Engineers (Cont.)\nDean Russell\nEdgars Sturmanis"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "工程师（外包）\nDean Russell\nEdgars Sturmanis"
+            }
+        },
+        "msg_credits_03_left": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Artists\nKevin Chung\nMarcos Gomes\nMike Harrington\nArturo Jauregui\nBrian McNeely\nSteven Petofalvi"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "美术\nKevin Chung\nMarcos Gomes\nMike Harrington\nArturo Jauregui\nBrian McNeely\nSteven Petofalvi"
+            }
+        },
+        "msg_credits_03_right": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Artists (Cont.)\nEdward Sherman\nMark Trono\n\nArtist (Contractor)\nShaun Keenan"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "美术（外包）\nEdward Sherman\nMark Trono\n\n美术（外包）\nShaun Keenan"
+            }
+        },
+        "msg_credits_04_left": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Audio Director\nJames Phillipsen\n\nProduction Coordinator\nDavid Carlson"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "声音导演\nJames Phillipsen\n\n合作出品\nDavid Carlson"
+            }
+        },
+        "msg_credits_04_right": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Production Manager\nMika Kurosawa\n\nExecutive Producer\nShigeki Yamashiro"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "产品经理\nMika Kurosawa\n\n出品执行\nShigeki Yamashiro"
+            }
+        },
+        "msg_credits_05_left": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Nintendo\n<TBD>"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "任天堂\n<TBD>"
+            }
+        },
+        "msg_credits_05_right": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Testing & Quality Assurance\n<TBD>"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "测试&质量管理\n<TBD>"
+            }
+        },
+        "msg_credits_06_left": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Special Thanks\n<TBD>"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "特别鸣谢\n<TBD>"
+            }
+        },
+        "msg_credits_06_right": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "General Producer\n<TBD>\n\nExecutive Producer\n<TBD>"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "制作人\n<TBD>\n\n出品执行\n<TBD>"
+            }
+        },
+        "msg_credits_07_left": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Nintendo is the author of this software for the purpose of copyright.\n All rights reserved.\n© 2015 Nintendo."
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "任天堂享有本产品版权。\n保留所有权利。\n© 2015 Nintendo"
+            }
+        },
+        "msg_credits_07_right": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Nintendo est l'auteur de ce logiciel au regard du droit d'auteur.\n Tous droits réservés. \n© 2015 Nintendo."
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "任天堂享有本产品版权。\n保留所有权利。\n© 2015 Nintendo"
+            }
+        }
+    },
+    "editor": {
+        "btn_pre_editor_mode01": {
+            "JP_Japanese": {
+                "size": 85,
+                "text": "つうじょうステージ"
+            },
+            "ZH_Chinese": {
+                "size": 85,
+                "text": "普通关卡"
+            }
+        },
+        "btn_pre_editor_mode02": {
+            "JP_Japanese": {
+                "size": 85,
+                "text": "マルチドアステージ"
+            },
+            "ZH_Chinese": {
+                "size": 85,
+                "text": "多门关卡"
+            }
+        },
+        "msg_pre_editor_mode02": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "せん用のゴールドアに\nトイキャラクターをみちびこう!"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "将迷你玩具引导到\n他专属的门吧！"
+            }
+        },
+        "msg_pre_editor_mode01": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "すべてのトイキャラクターを\nゴールドアにみちびこう!"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "将全部的迷你玩具都引导到\n终点的门吧！"
+            }
+        },
+        "dialogConfirmDelete": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "さくじょしたデータは\nもとにもどせません。\n本当にさくじょしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "一旦删除数据后将无法恢复。\n您真的希望删除吗？"
+            }
+        },
+        "btn_shop": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターストア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "编辑库"
+            }
+        },
+        "txt_editor_store_header": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターストア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "编辑库"
+            }
+        },
+        "txt_levelinfo_creator": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "作った人："
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "制作者"
+            }
+        },
+        "btn_levelinfo_edit": {
+            "JP_Japanese": {
+                "size": 80,
+                "text": "エディット"
+            },
+            "ZH_Chinese": {
+                "size": 80,
+                "text": "编辑"
+            }
+        },
+        "btn_levelinfo_share": {
+            "JP_Japanese": {
+                "size": 80,
+                "text": "投稿"
+            },
+            "ZH_Chinese": {
+                "size": 80,
+                "text": "投稿"
+            }
+        },
+        "dialog_playtest_to_share": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プレイテストですべてのコインを集めて\nステージをクリアしたら投稿できます!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在游玩测试里将全部的硬币都收集到\n并通关，就可以投稿这个关卡了！"
+            }
+        },
+        "dialog_unshare_confirmation": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージの投稿をやめると、\n他のユーザーは\nこのステージのけんさくができなくなり\nMiiverseに投稿されたコメントも\nさくじょされます。\n\n本当に投稿をやめますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "取消投稿之后，\n其他玩家将无法搜索到这个关卡，\n同时Miiverse上该关卡的评论也会消失。\n\n您真的希望取消投稿吗？"
+            }
+        },
+        "txt_levelinfo_dateB": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "作った日："
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "制作日期："
+            }
+        },
+        "txt_levelinfo_dateB_shared": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "投稿した日："
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "投稿日期："
+            }
+        },
+        "dialog_unshare_to_delete": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージをさくじょするには、ステージの投稿を\n取り消さなければなりません。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在取消投稿之前，\n您无法删除关卡。"
+            }
+        },
+        "editor_obj_name_GROUND": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "じめんブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "地面"
+            }
+        },
+        "editor_obj_name_SLOPE": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スロープ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "斜坡"
+            }
+        },
+        "editor_obj_name_CRUMBLE_BLK": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いわブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "石头"
+            }
+        },
+        "editor_obj_name_LADDER_STATIC": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はしご"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "梯子"
+            }
+        },
+        "editor_obj_name_GIRDER_STATIC": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "てっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "桥梁"
+            }
+        },
+        "editor_obj_name_SPIKE_H": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はりブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "钉子"
+            }
+        },
+        "editor_obj_name_SPIKE_V": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はりブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "钉子"
+            }
+        },
+        "editor_obj_name_CONVEYOR_STATIC": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ベルトコンベヤ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带"
+            }
+        },
+        "editor_obj_name_CONVEYOR_SWITCH": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤスイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带开关"
+            }
+        },
+        "editor_obj_name_RIVET_GIRDER_0": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色固定桥梁"
+            }
+        },
+        "editor_obj_name_RIVET_GIRDER_1": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホワイトてっこつリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "白色固定桥梁"
+            }
+        },
+        "editor_obj_name_RIVET_GIRDER_2": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクてっこつリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色固定桥梁"
+            }
+        },
+        "editor_obj_name_RIVET_GIRDER_3": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンてっこつリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色固定桥梁"
+            }
+        },
+        "editor_obj_name_RIVET_GIRDER_4": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドてっこつリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金固定桥梁"
+            }
+        },
+        "editor_obj_name_GIRDER_DYNAMIC_0": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色桥梁"
+            }
+        },
+        "editor_obj_name_GIRDER_DYNAMIC_1": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホワイトてっこつパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "白色桥梁"
+            }
+        },
+        "editor_obj_name_GIRDER_DYNAMIC_2": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクてっこつパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色桥梁"
+            }
+        },
+        "editor_obj_name_GIRDER_DYNAMIC_3": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンてっこつパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色桥梁"
+            }
+        },
+        "editor_obj_name_GIRDER_DYNAMIC_4": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドてっこつパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金桥梁"
+            }
+        },
+        "editor_obj_name_RIVET_CONVEYOR": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "固定传送带"
+            }
+        },
+        "editor_obj_name_CONVEYOR_DYNAMIC": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带"
+            }
+        },
+        "editor_obj_name_RIVET_LADDER": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "固定升降机"
+            }
+        },
+        "editor_obj_name_LADDER_DYNAMIC": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "升降机"
+            }
+        },
+        "editor_obj_name_SINGLE_BLK_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "方块"
+            }
+        },
+        "editor_obj_name_SINGLE_BLK_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえブロックスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空方块"
+            }
+        },
+        "editor_obj_name_SPR_YELLOW_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "横ジャンプスプリング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "水平弹簧"
+            }
+        },
+        "editor_obj_name_SPR_YELLOW_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "横ジャンプスプリングスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空水平弹簧"
+            }
+        },
+        "editor_obj_name_SPR_PINK_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "上ジャンプスプリング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "上跳弹簧"
+            }
+        },
+        "editor_obj_name_SPR_PINK_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "上ジャンプスプリングスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空上跳弹簧"
+            }
+        },
+        "editor_obj_name_MAGNET_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マグネットブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "磁性块（开）"
+            }
+        },
+        "editor_obj_name_MAGNET_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マグネットブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "磁性块（关）"
+            }
+        },
+        "editor_obj_name_MAGNET_SWITCH": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マグネットスイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "磁性开关"
+            }
+        },
+        "editor_obj_name_CLR_SWITCH_R": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドスイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色开关"
+            }
+        },
+        "editor_obj_name_CLR_SWITCH_B": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルースイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色开关"
+            }
+        },
+        "editor_obj_name_CLR_SWITCH_Y": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "イエロースイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄色开关"
+            }
+        },
+        "editor_obj_name_CLR_BLK_R_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色块（开）"
+            }
+        },
+        "editor_obj_name_CLR_BLK_B_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルーブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色块（开）"
+            }
+        },
+        "editor_obj_name_CLR_BLK_Y_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "イエローブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄色块（开）"
+            }
+        },
+        "editor_obj_name_CLR_BLK_R_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色块（关）"
+            }
+        },
+        "editor_obj_name_CLR_BLK_B_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルーブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色块（关）"
+            }
+        },
+        "editor_obj_name_CLR_BLK_Y_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "イエローブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄色块（关）"
+            }
+        },
+        "editor_obj_name_CANNON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キャノン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大炮"
+            }
+        },
+        "editor_obj_name_PIPE_DYNAMIC_ON": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "可动水管"
+            }
+        },
+        "editor_obj_name_PIPE_DYNAMIC_OFF": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえどかんスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空可动水管"
+            }
+        },
+        "editor_obj_name_PIPE_SPLIT": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ワープどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "裂缝水管"
+            }
+        },
+        "editor_obj_name_PIPE": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "どかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "水管"
+            }
+        },
+        "editor_obj_name_DOOR": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "门"
+            }
+        },
+        "editor_obj_name_DOOR_MM": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニマリオドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你马力欧之门"
+            }
+        },
+        "editor_obj_name_DOOR_MP": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニピーチドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主之门"
+            }
+        },
+        "editor_obj_name_DOOR_MT": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニキノピオドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥之门"
+            }
+        },
+        "editor_obj_name_DOOR_MD": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニDKドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你森喜刚之门"
+            }
+        },
+        "editor_obj_name_DOOR_ML": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニルイージドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉之门"
+            }
+        },
+        "editor_obj_name_DOOR_MPL": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニポリーンドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你波琳之门"
+            }
+        },
+        "editor_obj_name_COIN_S": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コインS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "硬币"
+            }
+        },
+        "editor_obj_name_COIN_L": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コインL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大硬币"
+            }
+        },
+        "editor_obj_name_M_COIN": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Mコイン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "中硬币"
+            }
+        },
+        "editor_obj_name_GIRDER_S": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "てっこつピースS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "砖块"
+            }
+        },
+        "editor_obj_name_GIRDER_L": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "てっこつピースL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大型砖块"
+            }
+        },
+        "editor_obj_name_LADDER_S": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトピースS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "升降机"
+            }
+        },
+        "editor_obj_name_LADDER_L": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトピースL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大型升降机"
+            }
+        },
+        "editor_obj_name_CONVEYOR_S": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤピースS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带"
+            }
+        },
+        "editor_obj_name_CONVEYOR_L": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤピースL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大型传送带"
+            }
+        },
+        "editor_obj_name_MINI_MARIO": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你马力欧"
+            }
+        },
+        "editor_obj_name_MINI_MARIO_KEY": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キーミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你马力欧X"
+            }
+        },
+        "editor_obj_name_MINI_MARIO_GOLD": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金迷你马力欧"
+            }
+        },
+        "editor_obj_name_MINI_TOAD": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニキノピオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥"
+            }
+        },
+        "editor_obj_name_MINI_TOAD_C": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニキノピオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥密封舱"
+            }
+        },
+        "editor_obj_name_MINI_PEACH": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニピーチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主"
+            }
+        },
+        "editor_obj_name_MINI_PEACH_C": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニピーチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主密封舱"
+            }
+        },
+        "editor_obj_name_MINI_PAULINE": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニポリーン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你波琳"
+            }
+        },
+        "editor_obj_name_MINI_PAULINE_C": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニポリーン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你波琳密封舱"
+            }
+        },
+        "editor_obj_name_MINI_DK": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニDK"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你森喜刚"
+            }
+        },
+        "editor_obj_name_MINI_DK_C": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニDK"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你森喜刚密封舱"
+            }
+        },
+        "editor_obj_name_MINI_LUIGI": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニルイージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉"
+            }
+        },
+        "editor_obj_name_MINI_LUIGI_C": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニルイージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉密封舱"
+            }
+        },
+        "editor_obj_name_SHADOW_MINI": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ダークミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黑暗迷你马力欧"
+            }
+        },
+        "editor_obj_name_HAMMER": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ハンマー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "锤子"
+            }
+        },
+        "editor_obj_name_SHYGUY": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ヘイホー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "嘿虎"
+            }
+        },
+        "editor_obj_name_PIRANHA_H_0": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "パックンフラワー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "食人花"
+            }
+        },
+        "editor_obj_name_PIRANHA_H_1": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ファイアパックン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "火焰食人花"
+            }
+        },
+        "editor_obj_name_PIRANHA_V_0": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "パックンフラワー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "食人花"
+            }
+        },
+        "editor_obj_name_PIRANHA_V_1": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ファイアパックン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "火焰食人花"
+            }
+        },
+        "editor_obj_name_POKEY": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "サンボ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "桑波"
+            }
+        },
+        "editor_obj_name_THWOMP": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ドッスン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "生气石头"
+            }
+        },
+        "editor_obj_name_CANNON_KONG": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キャノンコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大炮刚"
+            }
+        },
+        "editor_obj_name_CIRCUS_KONG": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "サーカスコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "马戏刚"
+            }
+        },
+        "editor_obj_name_CAPTURE_KONG": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キャプチャーコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "猎手刚"
+            }
+        },
+        "editor_bg_name_00": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ローリングヒルズ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "滚动山丘"
+            }
+        },
+        "editor_bg_name_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ジャングルジャンプ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蹦跳丛林"
+            }
+        },
+        "editor_bg_name_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤファクトリー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带工厂"
+            }
+        },
+        "editor_bg_name_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "デンジャラスケーブ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "危险洞窟"
+            }
+        },
+        "editor_bg_name_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "デザートダッシュ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "沙漠快跑"
+            }
+        },
+        "editor_bg_name_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トワイライトビレッジ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "暮色山庄"
+            }
+        },
+        "editor_bg_name_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スペースステーション"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "旋转空间站"
+            }
+        },
+        "editor_bg_name_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マッシュルームバレー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蘑菇溪谷"
+            }
+        },
+        "editor_bg_name_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プリンセスガーデン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "公主的花园"
+            }
+        },
+        "editor_bg_name_09": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドパレス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金宫殿"
+            }
+        },
+        "editor_bg_name_10": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホーンテッドキャビン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "哐啷小屋"
+            }
+        },
+        "editor_bg_name_11": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターランド"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "设计师之家"
+            }
+        },
+        "colorselect_rivet01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色桥梁"
+            }
+        },
+        "colorselect_rivet02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホワイトてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "白色桥梁"
+            }
+        },
+        "colorselect_rivet03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色桥梁"
+            }
+        },
+        "colorselect_rivet04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色桥梁"
+            }
+        },
+        "colorselect_rivet05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金桥梁"
+            }
+        },
+        "colorselect_pipe01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルーどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色水管"
+            }
+        },
+        "colorselect_pipe02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "水玉どかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "水珠水管"
+            }
+        },
+        "colorselect_pipe03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色水管"
+            }
+        },
+        "colorselect_pipe04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色水管"
+            }
+        },
+        "colorselect_pipe05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金水管"
+            }
+        },
+        "btn_editor_theme": {
+            "JP_Japanese": {
+                "size": 95,
+                "text": "ステージ\nテーマ"
+            },
+            "ZH_Chinese": {
+                "size": 95,
+                "text": "关卡主题"
+            }
+        },
+        "editor_default_level_name": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マイステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "我的关卡"
+            }
+        },
+        "editor_dialog_exit_confirmation": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブされていないへんこうは\nうしなわれます。\n本当にエディットをやめますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "未保存的改动会被丢失。\n您真的希望取消编辑吗？"
+            }
+        },
+        "editor_dialog_exit_confirmation_no_change": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージ情報にもどりますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "返回关卡详情吗？"
+            }
+        },
+        "editor_dialog_reset_confirmation": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージのデータが\nすべてさくじょされます。\n本当にさくじょししますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "即将删除该关卡的全部数据。\n您真的希望删除吗？"
+            }
+        },
+        "dialog_saving": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブしています…"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在保存中..."
+            }
+        },
+        "msg_dialog_saving_gamepad": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブしています…"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在保存中..."
+            }
+        },
+        "txt_editor_thumbnail_header": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "わくをスライドして\nステージのサムネイルを作ろう。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "拖拽框架来生成关卡缩略图。"
+            }
+        },
+        "btn_editor_save": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "セーブ"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "保存"
+            }
+        },
+        "btn_editor_levelname": {
+            "JP_Japanese": {
+                "size": 95,
+                "text": "ステージの名前"
+            },
+            "ZH_Chinese": {
+                "size": 95,
+                "text": "关卡名"
+            }
+        },
+        "btn_editor_thumbnail": {
+            "JP_Japanese": {
+                "size": 95,
+                "text": "ステージ\nサムネイル"
+            },
+            "ZH_Chinese": {
+                "size": 95,
+                "text": "缩略图"
+            }
+        },
+        "btn_editor_exit": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "やめる"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "取消"
+            }
+        },
+        "btn_editor_reset": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "リセット"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "重置"
+            }
+        },
+        "msg_editor_not_enough_stars": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スターがたりません。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "星星数目不足。"
+            }
+        },
+        "msg_editor_confirm_item_buy": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "%dコのスターで\nこのアイテムをゲットしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "要消费%d个星星解锁它吗？"
+            }
+        },
+        "txt_edit_ready": {
+            "JP_Japanese": {
+                "size": 85,
+                "text": "ごうかく"
+            },
+            "ZH_Chinese": {
+                "size": 85,
+                "text": "合格"
+            }
+        },
+        "txt_editor_theme_header": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージテーマをえらぼう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "选择一个关卡主题吧！"
+            }
+        },
+        "shop_page1_item1_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キーミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你马力欧X"
+            }
+        },
+        "shop_page1_item1_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「つうじょうステージ」用のトイキャラクター!\nエディターでえらんでステージ作りに使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是通常关卡用的迷你玩具，\n在编辑器中选取它来制作关卡吧！"
+            }
+        },
+        "shop_page1_item2_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ダークミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黑暗迷你马力欧"
+            }
+        },
+        "shop_page1_item2_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "「つうじょうステージ」用のトイキャラクター!\nエディターでえらんでステージ作りに使ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是通常关卡用的迷你玩具，\n在编辑器中选取它来制作关卡吧！"
+            }
+        },
+        "shop_page1_item4_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マルチドアステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "多门关卡"
+            }
+        },
+        "shop_page1_item4_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "せん用のゴールドアとカプセル入りのトイキャラクター!\n「マルチドアステージ」を作れるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是密封舱中的迷你玩具和它的专属门！\n用它来制作多门关卡吧！"
+            }
+        },
+        "shop_page1_item3_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニポリーン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你波琳"
+            }
+        },
+        "shop_page1_item3_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "どんなステージにも使えるトイキャラクター!\nエディターでえらんで楽しいステージを作ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是在任何关卡中都能使用的迷你玩具，\n在编辑器中选取它来制作关卡吧！"
+            }
+        },
+        "shop_page2_item1_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニキノピオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥"
+            }
+        },
+        "shop_page2_item1_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "どんなステージにも使えるトイキャラクター!\nエディターでえらんで楽しいステージを作ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是在任何关卡中都能使用的迷你玩具，\n在编辑器中选取它来制作关卡吧！"
+            }
+        },
+        "shop_page2_item2_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホワイトてっこつセット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "白色固定桥梁"
+            }
+        },
+        "shop_page2_item2_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのてっこつとリベットです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的桥梁和铆钉！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page2_item3_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "水玉どかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "水珠水管"
+            }
+        },
+        "shop_page2_item3_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのどかんです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的水管！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page2_item4_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マッシュルームバレーテーマ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蘑菇溪谷主题"
+            }
+        },
+        "shop_page2_item4_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターの「ステージテーマ」からえらべます。\nじめんや音楽をマッシュルームバレーでとういつできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "可从编辑器的关卡主题里选择。\n把地块和音乐都替换为蘑菇溪谷的主题。"
+            }
+        },
+        "shop_page3_item1_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニピーチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主"
+            }
+        },
+        "shop_page3_item1_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "どんなステージにも使えるトイキャラクター!\nエディターでえらんで楽しいステージを作ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是在任何关卡中都能使用的迷你玩具，\n在编辑器中选取它来制作关卡吧！"
+            }
+        },
+        "shop_page3_item2_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクてっこつセット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色桥梁套组"
+            }
+        },
+        "shop_page3_item2_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのてっこつとリベットです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的桥梁和铆钉！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page3_item3_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色水管"
+            }
+        },
+        "shop_page3_item3_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのどかんです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的水管！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page3_item4_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プリンセスガーデンテーマ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "公主的花园主题"
+            }
+        },
+        "shop_page3_item4_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターの「ステージテーマ」からえらべます。\nじめんや音楽をプリンセスガーデンでとういつできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "可从编辑器的关卡主题里选择。\n把地块和音乐都替换为公主的花园的主题。"
+            }
+        },
+        "shop_page4_item1_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニルイージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉"
+            }
+        },
+        "shop_page4_item1_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "どんなステージにも使えるトイキャラクター!\nエディターでえらんで楽しいステージを作ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是在任何关卡中都能使用的迷你玩具，\n在编辑器中选取它来制作关卡吧！"
+            }
+        },
+        "shop_page4_item2_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンてっこつセット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色桥梁套组"
+            }
+        },
+        "shop_page4_item2_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのてっこつとリベットです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的桥梁和铆钉！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page4_item3_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色水管"
+            }
+        },
+        "shop_page4_item3_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのどかんです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的水管！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page4_item4_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホーンテッドキャビンテーマ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "哐啷小屋"
+            }
+        },
+        "shop_page4_item4_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターの「ステージテーマ」からえらべます。\nじめんや音楽をホーンテッドキャビンでとういつできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "可从编辑器的关卡主题里选择。\n把地块和音乐都替换为哐啷小屋的主题。"
+            }
+        },
+        "shop_page5_item1_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金迷你马力欧"
+            }
+        },
+        "shop_page5_item1_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "どんなステージにも使えるトイキャラクター!\nエディターでえらんで楽しいステージを作ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是在任何关卡中都能使用的迷你玩具，\n在编辑器中选取它来制作关卡吧！"
+            }
+        },
+        "shop_page5_item2_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドてっこつセット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金桥梁套组"
+            }
+        },
+        "shop_page5_item2_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのてっこつとリベットです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的桥梁和铆钉！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page5_item3_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金水管"
+            }
+        },
+        "shop_page5_item3_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "新しいデザインのどかんです!\nエディターの「ステージテーマ」からえらべます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "是全新设计里的水管！\n在编辑器的关卡主题里选取它吧。"
+            }
+        },
+        "shop_page5_item4_title": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドパレステーマ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金宫殿主题"
+            }
+        },
+        "shop_page5_item4_desc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターの「ステージテーマ」からえらべます。\nじめんや音楽をゴールドパレスでとういつできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "可从编辑器的关卡主题里选择。\n把地块和音乐都替换为黄金宫殿的主题。"
+            }
+        },
+        "editor_template_00": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "テンプレート1"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "模版1"
+            }
+        },
+        "editor_template_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "テンプレート2"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "模板2"
+            }
+        },
+        "editor_template_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "テンプレート3"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "模板3"
+            }
+        },
+        "msg_editor_already_bought": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このアイテムは持っています。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "已经拥有这个道具了。"
+            }
+        },
+        "txt_this_is_a_template": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "これはみかんせいのステージです。\nこれをもとに自分のステージを\n作ってみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这是一个还未完成的关卡。\n在这基础上来制作自己的关卡吧！"
+            }
+        },
+        "msg_share_change_level_name_confirm": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージの名前が\n「%s」のままです。\n\n投稿する前に\nステージの名前をへんこうしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "这个关卡的名称似乎是「%s」\n\n希望在投稿之前修改一下关卡名称吗？"
+            }
+        },
+        "dialog_edit_the_level": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージをエディットしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "编辑关卡吗？"
+            }
+        },
+        "guide_text": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージの名前"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关卡名"
+            }
+        }
+    },
+    "glossary": {
+        "glossary_110": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "メインゲーム"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "主线关卡"
+            }
+        },
+        "glossary_112": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ボーナス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖励"
+            }
+        },
+        "glossary_113": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ボーナスステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖励关卡"
+            }
+        },
+        "glossary_111": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディター"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关卡编辑器"
+            }
+        },
+        "glossary_109": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コミュニティ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在线社区"
+            }
+        },
+        "glossary_114": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关卡"
+            }
+        },
+        "glossary_001": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スター"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "星星"
+            }
+        },
+        "glossary_002": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "※未使用"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "※ 未使用"
+            }
+        },
+        "glossary_003": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トロフィー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖杯"
+            }
+        },
+        "glossary_004": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "投稿"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "投稿"
+            }
+        },
+        "glossary_005": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "投稿をやめる"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "取消投稿"
+            }
+        },
+        "glossary_127": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "编辑"
+            }
+        },
+        "glossary_107": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プレイテスト"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "开始测试"
+            }
+        },
+        "glossary_108": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ターゲットスコア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "目标分数"
+            }
+        },
+        "glossary_116": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ハイスコア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "最高分数"
+            }
+        },
+        "glossary_115": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゲットする"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "解锁"
+            }
+        },
+        "glossary_117": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "けんさく"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "搜索"
+            }
+        },
+        "glossary_118": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "せいこう"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "成功"
+            }
+        },
+        "glossary_119": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "しっぱい"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "失败"
+            }
+        },
+        "glossary_120": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プロフィール"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "详情一览"
+            }
+        },
+        "glossary_121": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "作った人"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "制作者"
+            }
+        },
+        "glossary_128": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ユーザー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用者"
+            }
+        },
+        "glossary_125": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "人気ステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "热门关卡"
+            }
+        },
+        "glossary_126": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "さいしんステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "最新关卡"
+            }
+        },
+        "glossary_124": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "フレンド&フォロー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "好友&粉丝"
+            }
+        },
+        "glossary_123": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ニンテンドー公式"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "任天堂官网"
+            }
+        },
+        "glossary_122": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ダウンロード"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "下载"
+            }
+        },
+        "glossary_006": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "じめんブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "地面"
+            }
+        },
+        "glossary_007": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スロープ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "斜坡"
+            }
+        },
+        "glossary_008": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いわブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "石头"
+            }
+        },
+        "glossary_009": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はしご"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "梯子"
+            }
+        },
+        "glossary_010": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "てっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "桥梁"
+            }
+        },
+        "glossary_011": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はりブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "钉子"
+            }
+        },
+        "glossary_012": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はりブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "钉子"
+            }
+        },
+        "glossary_013": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ベルトコンベヤ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带"
+            }
+        },
+        "glossary_014": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤスイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带开关"
+            }
+        },
+        "glossary_015": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色固定桥梁"
+            }
+        },
+        "glossary_016": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色桥梁"
+            }
+        },
+        "glossary_017": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "固定桥梁"
+            }
+        },
+        "glossary_018": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "桥梁"
+            }
+        },
+        "glossary_019": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトリベット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "固定升降机"
+            }
+        },
+        "glossary_020": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトパーツ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "升降机"
+            }
+        },
+        "glossary_021": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえブロック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "方块"
+            }
+        },
+        "glossary_022": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえブロックスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空方块"
+            }
+        },
+        "glossary_023": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "横ジャンプスプリング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "水平弹簧"
+            }
+        },
+        "glossary_024": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "横ジャンプスプリングスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空水平弹簧"
+            }
+        },
+        "glossary_025": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "上ジャンプスプリング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "上跳弹簧"
+            }
+        },
+        "glossary_026": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "上ジャンプスプリングスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空上跳弹簧"
+            }
+        },
+        "glossary_027": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マグネットブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "磁性块（开）"
+            }
+        },
+        "glossary_028": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マグネットブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "磁性块（关）"
+            }
+        },
+        "glossary_029": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マグネットスイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "磁性开关"
+            }
+        },
+        "glossary_030": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドスイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色开关"
+            }
+        },
+        "glossary_031": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルースイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色开关"
+            }
+        },
+        "glossary_032": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "イエロースイッチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄色开关"
+            }
+        },
+        "glossary_033": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色块（开）"
+            }
+        },
+        "glossary_034": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルーブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色块（开）"
+            }
+        },
+        "glossary_035": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "イエローブロック （オン）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄色块（开）"
+            }
+        },
+        "glossary_036": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色块（关）"
+            }
+        },
+        "glossary_037": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルーブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色块（关）"
+            }
+        },
+        "glossary_038": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "イエローブロック （オフ）"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄色块（关）"
+            }
+        },
+        "glossary_039": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キャノン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大炮"
+            }
+        },
+        "glossary_040": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "可动水管"
+            }
+        },
+        "glossary_041": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "つけかえどかんスロット"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "空可动水管"
+            }
+        },
+        "glossary_042": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ワープどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "裂缝水管"
+            }
+        },
+        "glossary_043": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "どかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "水管"
+            }
+        },
+        "glossary_044": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "门"
+            }
+        },
+        "glossary_045": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "amiibo门"
+            }
+        },
+        "glossary_046": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニピーチドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主之门"
+            }
+        },
+        "glossary_047": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニキノピオドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥之门"
+            }
+        },
+        "glossary_048": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニDKドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你森喜刚之门"
+            }
+        },
+        "glossary_049": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニルイージドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉之门"
+            }
+        },
+        "glossary_050": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニポリーンドア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你波琳之门"
+            }
+        },
+        "glossary_051": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コインS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "硬币"
+            }
+        },
+        "glossary_052": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コインL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大硬币"
+            }
+        },
+        "glossary_053": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboパス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "amiibo奖牌"
+            }
+        },
+        "glossary_054": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "てっこつピースS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "砖块"
+            }
+        },
+        "glossary_055": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "てっこつピースL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大型砖块"
+            }
+        },
+        "glossary_056": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトピースS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "升降机"
+            }
+        },
+        "glossary_057": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "リフトピースL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大型升降机"
+            }
+        },
+        "glossary_058": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤピースS"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带"
+            }
+        },
+        "glossary_059": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤピースL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大型传送带"
+            }
+        },
+        "glossary_060": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你马力欧"
+            }
+        },
+        "glossary_061": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キーミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你马力欧X"
+            }
+        },
+        "glossary_062": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金迷你马力欧"
+            }
+        },
+        "glossary_063": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニキノピオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥"
+            }
+        },
+        "glossary_064": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニキノピオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你奇诺比奥密封舱"
+            }
+        },
+        "glossary_065": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニピーチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主"
+            }
+        },
+        "glossary_066": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニピーチ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你桃花公主密封舱"
+            }
+        },
+        "glossary_067": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニポリーン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你波琳"
+            }
+        },
+        "glossary_068": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニポリーン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你波琳密封舱"
+            }
+        },
+        "glossary_069": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニDK"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你森喜刚"
+            }
+        },
+        "glossary_070": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニDK"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你森喜刚密封舱"
+            }
+        },
+        "glossary_071": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニルイージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉"
+            }
+        },
+        "glossary_072": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カプセルミニルイージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你路易吉密封舱"
+            }
+        },
+        "glossary_129": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニロゼッタ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你罗莎塔"
+            }
+        },
+        "glossary_130": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニクッパJr."
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你酷霸王二世"
+            }
+        },
+        "glossary_131": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニクッパ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你酷霸王"
+            }
+        },
+        "glossary_132": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニヨッシー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你耀西"
+            }
+        },
+        "glossary_133": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ミニディディーコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "迷你迪迪刚"
+            }
+        },
+        "glossary_073": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ダークミニマリオ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黑暗迷你马力欧"
+            }
+        },
+        "glossary_074": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ハンマー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "锤子"
+            }
+        },
+        "glossary_075": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ヘイホー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "嘿虎"
+            }
+        },
+        "glossary_076": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "パックンフラワー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "食人花"
+            }
+        },
+        "glossary_077": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ファイアパックン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "火焰食人花"
+            }
+        },
+        "glossary_078": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "パックンフラワー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "食人花"
+            }
+        },
+        "glossary_079": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ファイアパックン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "火焰食人花"
+            }
+        },
+        "glossary_080": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "サンボ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "桑波"
+            }
+        },
+        "glossary_081": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ドッスン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "生气石头"
+            }
+        },
+        "glossary_082": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キャノンコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "大炮刚"
+            }
+        },
+        "glossary_083": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "サーカスコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "马戏刚"
+            }
+        },
+        "glossary_084": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キャプチャーコング"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "猎手刚"
+            }
+        },
+        "glossary_085": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ローリングヒルズ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "滚动山丘"
+            }
+        },
+        "glossary_086": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ジャングルジャンプ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蹦跳丛林"
+            }
+        },
+        "glossary_087": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤファクトリー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带工厂"
+            }
+        },
+        "glossary_088": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "デンジャラスケーブ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "危险洞窟"
+            }
+        },
+        "glossary_089": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "デザートダッシュ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "沙漠快跑"
+            }
+        },
+        "glossary_090": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トワイライトビレッジ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "暮色山庄"
+            }
+        },
+        "glossary_091": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スペースステーション"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "旋转空间站"
+            }
+        },
+        "glossary_092": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マッシュルームバレー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蘑菇溪谷"
+            }
+        },
+        "glossary_093": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プリンセスガーデン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "公主的花园"
+            }
+        },
+        "glossary_094": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドパレス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金宫殿"
+            }
+        },
+        "glossary_095": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホーンテッドキャビン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "哐啷小屋"
+            }
+        },
+        "glossary_096": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディターランド"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "设计师之家"
+            }
+        },
+        "glossary_097": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "红色桥梁"
+            }
+        },
+        "glossary_098": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホワイトてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "白色桥梁"
+            }
+        },
+        "glossary_099": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色桥梁"
+            }
+        },
+        "glossary_100": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色桥梁"
+            }
+        },
+        "glossary_101": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドてっこつ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金桥梁"
+            }
+        },
+        "glossary_102": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ブルーどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蓝色水管"
+            }
+        },
+        "glossary_103": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "水玉どかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "水珠水管"
+            }
+        },
+        "glossary_104": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピンクどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "粉色水管"
+            }
+        },
+        "glossary_105": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グリーンどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "绿色水管"
+            }
+        },
+        "glossary_106": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドどかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金水管"
+            }
+        }
+    },
+    "graphicText": {
+        "lbl_amiiboPower_donkeyKong": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ジャングルダッシュ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "攀爬陡坡"
+            }
+        },
+        "lbl_amiiboPower_diddyKong": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ガケつかまり"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "断崖挂边"
+            }
+        },
+        "lbl_amiiboPower_yoshi": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "たべる"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "吞噬敌人"
+            }
+        },
+        "lbl_amiiboPower_mario": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "カベキック"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "踢墙跳"
+            }
+        },
+        "lbl_amiiboPower_peach": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ピーチフロート"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "浮空跳"
+            }
+        },
+        "lbl_amiiboPower_toad": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "キノコンパクト"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "缩地术"
+            }
+        },
+        "lbl_amiiboPower_luigi": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ハイジャンプ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "高跳"
+            }
+        },
+        "lbl_amiiboPower_bowserJr": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "はりガード"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "防御针刺"
+            }
+        },
+        "lbl_amiiboPower_bowser": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "クッパドロップ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "陨石坠"
+            }
+        },
+        "lbl_amiiboPower_rosalina": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ギャラクシージャンプ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "梦幻高跳"
+            }
+        },
+        "lbl_sideStreet_donkeyKong": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タルジェットジャングル"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "炸弹桶丛林"
+            }
+        },
+        "lbl_sideStreet_diddyKong": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マインカートベイ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "矿车湾"
+            }
+        },
+        "lbl_sideStreet_yoshi": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エッグランチャーバレー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蛋蛋发射场"
+            }
+        },
+        "lbl_sideStreet_mario": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スプリンターヒルズ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "凌特山庄"
+            }
+        },
+        "lbl_sideStreet_peach": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "バルーンガーデン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "气球花园"
+            }
+        },
+        "lbl_sideStreet_toad": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マッシュルームハイランド"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蘑菇山丘"
+            }
+        },
+        "lbl_sideStreet_luigi": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ムーンライトマンション"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "月光大厦"
+            }
+        },
+        "lbl_sideStreet_bowserJr": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トルネードケーブ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "龙卷风洞穴"
+            }
+        },
+        "lbl_sideStreet_bowser": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "フレイムキャッスル"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "火焰城堡"
+            }
+        },
+        "lbl_sideStreet_rosalina": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "グラビティギャラクシー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "重力银河"
+            }
+        },
+        "lbl_starWorld": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スターワールド"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "星星世界"
+            }
+        },
+        "header_congrats": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "CONGRATULATIONS!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "恭喜！"
+            }
+        },
+        "lbl_wayToGo": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ファンタスティック!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "真棒！"
+            }
+        },
+        "lbl_levelClear": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージ\nクリア!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关卡\n完成"
+            }
+        },
+        "lbl_score": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スコア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "分数"
+            }
+        },
+        "lbl_Record": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ハイスコア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "高分记录"
+            }
+        },
+        "lbl_highScore": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ハイスコアこうしん!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "新纪录！"
+            }
+        },
+        "lbl_timeBonus": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タイムボーナス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "时间奖励"
+            }
+        },
+        "lbl_start": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゲームをはじめる"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "游戏开始"
+            }
+        },
+        "lbl_pause": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "PAUSE"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "暂停"
+            }
+        },
+        "lbl_move": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いどう"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "移动"
+            }
+        },
+        "graphicMainGameHelpCollect": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nあつめよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n把它收集起来！"
+            }
+        },
+        "graphicMainGameHelpDrag": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スライドして\nつくろう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "按住拖拽它\n来制作吧！"
+            }
+        },
+        "graphicMainGameHelpTouchStart": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nスタート!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n轻击开始"
+            }
+        },
+        "graphicMainGameHelpPickUp": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nあつめよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n把它收集起来！"
+            }
+        },
+        "graphicMainGameHelpPlace": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nセット!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n放置到这里！"
+            }
+        },
+        "graphicMainGameHelpCannon": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nはっしゃ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n发射大炮！"
+            }
+        },
+        "graphicMainGameHelpMineCart": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nトロッコをはしらせよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n让车跑起来吧！"
+            }
+        },
+        "graphicMainGameHelpBoost": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nブーストパッドの\nむきをかえよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n旋转升压垫的方向！"
+            }
+        },
+        "graphicMainGameHelpFan": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nファンをそうさしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n操作风扇！"
+            }
+        },
+        "graphicMainGameHelpMushroom": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nはずませよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n弹射出去！"
+            }
+        },
+        "graphicMainGameHelpBalloon": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nバルーンをわろう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n分割气球！"
+            }
+        },
+        "graphicMainGameHelpFireBlocks": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nファイアをそうさしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n操作火焰！"
+            }
+        },
+        "graphicMainGameHelpGravityWell": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nはんのうさせよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n让它发生反应！"
+            }
+        },
+        "graphicMainGameHelpGravityBubble": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nバブルをわろう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n将泡泡戳破！"
+            }
+        },
+        "msg_amiiboScan": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboでWii U GamePadのをタッチ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "请将amiibo放在WiiU GamePad的上！"
+            }
+        },
+        "msg_SideStreetClear": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "クリア!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "完成！"
+            }
+        },
+        "lbl_allLevelsComplete": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "おめでとう!\nすべてのステージをクリアしました!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "祝贺你！\n你完成了全部的关卡！"
+            }
+        },
+        "lbl_allTrophies": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "すばらしい! すべてのステージで\nトロフィーをかくとくしました!!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "干得漂亮！\n你得到了所有的奖杯！"
+            }
+        },
+        "graphicMainGameComplete": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ステージクリア!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关卡完成！"
+            }
+        },
+        "initial_loading_message": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このソフトは Wii U GamePad で遊びます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": ""
+            }
+        },
+        "title_lookAtGamePad": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Wii U GamePad を見てください!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "请注视您的WiiU GamePad!"
+            }
+        },
+        "btn_title_solo": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "メインゲーム"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "主线关卡"
+            }
+        },
+        "btn_title_bonus": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ボーナス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖励"
+            }
+        },
+        "btn_title_workshop": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディター"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "编辑器"
+            }
+        },
+        "btn_title_ugc": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コミュニティ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在线社区"
+            }
+        },
+        "graphicWorldName_00": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ローリングヒルズ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "滚动山丘"
+            }
+        },
+        "graphicWorldName_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ジャングルジャンプ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蹦跳丛林"
+            }
+        },
+        "graphicWorldName_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コンベヤファクトリー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "传送带工厂"
+            }
+        },
+        "graphicWorldName_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "デンジャラスケーブ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "危险洞窟"
+            }
+        },
+        "graphicWorldName_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "デザートダッシュ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "沙漠快跑"
+            }
+        },
+        "graphicWorldName_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トワイライトビレッジ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "暮色山庄"
+            }
+        },
+        "graphicWorldName_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スペースステーション"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "旋转空间站"
+            }
+        },
+        "graphicWorldName_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ホーンテッドキャビン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "哐啷小屋"
+            }
+        },
+        "graphicWorldName_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プリンセスガーデン"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "公主的花园"
+            }
+        },
+        "graphicWorldName_09": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドパレス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "黄金宫殿"
+            }
+        },
+        "graphicWorldName_10": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マッシュルームバレー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蘑菇溪谷"
+            }
+        },
+        "graphicWorldName_11": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "スペシャルアイテム"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "特殊道具"
+            }
+        },
+        "graphicMainGameGameOver": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゲーム\nオーバー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "游戏\n结束"
+            }
+        },
+        "graphicLoadingText": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ロードしています…"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在读取..."
+            }
+        },
+        "graphicMainGameHelpConveyor": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nベルトコンベヤの\nむきをかえよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n来旋转传送带的方向！"
+            }
+        },
+        "graphicMainGameHelpMagnet": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "タッチして\nマグネットを\nそうさしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "使用触屏笔\n来操作磁性块！"
+            }
+        },
+        "graphicStory_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "+でスキップ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "按+跳过"
+            }
+        },
+        "graphicStory_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "サプライズ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "意外惊喜！"
+            }
+        },
+        "graphicStory_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "THANKS FOR PLAYING!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "感谢您的游玩！"
+            }
+        },
+        "graphicTitleWorkshop": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "エディター"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "编辑器"
+            }
+        },
+        "graphicTitleCommunity": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コミュニティ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在线社区"
+            }
+        },
+        "graphicTitleCredits": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Credits <TBD>"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "开发名单 <TBD>"
+            }
+        },
+        "graphicUgcLevelSelectNewLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "NEW\nLEVEL"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "新关"
+            }
+        },
+        "graphicUgcPlayResult_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プレイテストせいこう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "游玩测试大成功！"
+            }
+        },
+        "graphicUgcPlayResult_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "プレイテストしっぱい"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "游玩测试失败了"
+            }
+        },
+        "graphicEditorShop_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "うりきれ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "已售罄"
+            }
+        },
+        "graphicBonus_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ボーナス1"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖励1"
+            }
+        },
+        "graphicBonus_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ボーナス2"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖励2"
+            }
+        },
+        "graphicBonus_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ボーナス3"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖励3"
+            }
+        },
+        "graphicBonus_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ボーナスステージ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "奖励关卡"
+            }
+        },
+        "graphicE3_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "THANKS FOR PLAYING!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "感谢您的游玩！"
+            }
+        },
+        "graphicLoadingScreenTipEarnTips _00": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "作った人"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "制作者"
+            }
+        },
+        "graphicLoadingScreenTipMiiRegion_jp": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "日本"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "日本"
+            }
+        },
+        "graphicLoadingScreenTipMiiRegion_eu": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "欧州・オセアニア"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "欧洲、大洋洲"
+            }
+        },
+        "graphicLoadingScreenTipMiiRegion_na": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "北米・南米"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "北美、南美"
+            }
+        },
+        "expert_world_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "E1"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "E1"
+            }
+        },
+        "expert_world_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "E2"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "E2"
+            }
+        },
+        "expert_X_digit": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "E"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "E"
+            }
+        },
+        "graphic_txt_saving": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブしています…"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在保存中..."
+            }
+        },
+        "graphic_new_callout": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "NEW!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "发现了新东西！"
+            }
+        }
+    },
+    "loadingTips": {
+        "msg_help_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コインをすべて集めてすばやくゴールし\nトロフィーをかくとくしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "快速通关并收集所有硬币来获取金奖杯吧！"
+            }
+        },
+        "msg_help_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつなどのアイテムは、一度使っても\nタッチして集めればまた使えるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "像红色桥梁这样的道具，使用掉之后，\n也可以点击收回再次使用。"
+            }
+        },
+        "msg_help_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "広いステージはA/B/X/Yボタン、十字ボタン\nL・Rスティックでスクロールできるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "遇到大型关卡时，可以动动ABXY键、十字键\n和左右摇杆来观察四周喔！"
+            }
+        },
+        "msg_help_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マップやステージからamiiboで\nWii U GamePadのをタッチすれば\nトイキャラクターを入れかえられるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在关卡内或关卡地图上，你都可以在\nWiiU GamePad的上放置一个amiibo\n来切换迷你玩具喔！"
+            }
+        },
+        "msg_help_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboを入れかえると、それぞれの\nトイキャラクターのアビリティをかくにんできるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在amiibo切换界面上，你可以查看\n每个迷你玩具及其特殊能力的演示。"
+            }
+        },
+        "msg_help_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターのアビリティを使って\namiiboパスを集め、スターワールドの\nスペシャルステージをオープンしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "合理使用迷你玩具的能力，收集amiibo奖牌\n来解锁星星世界的特别关卡吧！"
+            }
+        },
+        "msg_help_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドamiiboパスをかくとくすれば\namiiboパスを5まいゲットできるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "每个1个amiibo金奖牌等价于5个普通奖牌喔！"
+            }
+        },
+        "msg_help_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターをタッチすると\n少しの間だけダッシュするぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "点击迷你玩具可以让它瞬时加速。"
+            }
+        },
+        "msg_help_09": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターがタテ向きのどかんから\n出てくる向きは、どかんに入ったときと同じだぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "向着你进入垂直水管的方向，就能退出水管。"
+            }
+        },
+        "msg_loadingTip_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コインをすべて集めてすばやくゴールし\nトロフィーをかくとくしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "快速通关并收集所有硬币来获取金奖杯吧！"
+            }
+        },
+        "msg_loadingTip_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつなどのアイテムは、一度使っても\nタッチして集めればまた使えるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "像红色桥梁这样的道具，使用掉之后，\n也可以点击收回再次使用。"
+            }
+        },
+        "msg_loadingTip_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "広いステージはA/B/X/Yボタン、十字ボタン\nまたはL・Rスティックでスクロールできるぞ!\nステージ全体をよく見てみよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "遇到大型关卡时，可以动动ABXY键、十字键\n和左右摇杆来观察四周喔！"
+            }
+        },
+        "msg_loadingTip_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "マップやステージからamiiboで\nWii U GamePadのをタッチすれば\nトイキャラクターを入れかえられるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在关卡内或关卡地图上，你都可以在\nWiiU GamePad的上放置一个amiibo\n来切换迷你玩具喔！"
+            }
+        },
+        "msg_loadingTip_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboを入れかえると、それぞれのトイキャラクターの\nアビリティをかくにんできるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在amiibo切换界面上，你可以查看\n每个迷你玩具及其特殊能力的演示。"
+            }
+        },
+        "msg_loadingTip_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターのアビリティを使って\namiiboパスを集め、スターワールドの\nスペシャルステージをオープンしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "合理使用迷你玩具的能力，收集amiibo奖牌\n来解锁星星世界的特别关卡吧！"
+            }
+        },
+        "msg_loadingTip_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドamiiboパスをかくとくすれば\namiiboパスを5まいゲットできるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "每个1个amiibo金奖牌等价于5个普通奖牌喔！"
+            }
+        },
+        "msg_loadingTip_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターをタッチすると\n少しの間だけダッシュするぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "点击迷你玩具可以让它瞬时加速。"
+            }
+        },
+        "msg_loadingTip_09": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターがタテ向きのどかんから\n出てくる向きは、どかんに入ったときと同じだぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "向着你进入垂直水管的方向，就能退出水管。"
+            }
+        },
+        "msg_help_3DS_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "コインをすべて集めてすばやくゴールし\nトロフィーをかくとくしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "快速通关并收集所有硬币来获取金奖杯吧！"
+            }
+        },
+        "msg_help_3DS_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "レッドてっこつなどのアイテムは、一度使っても\nタッチして集めればまた使えるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "像红色桥梁这样的道具，使用掉之后，\n也可以点击收回再次使用。"
+            }
+        },
+        "msg_help_3DS_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "広いステージはA/B/X/Yボタン、十字ボタン\nスライドパッド、またはCスティックで\nスクロールして見わたせるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "遇到大型关卡时，可以动动ABXY键、十字键\n滑动面板、以及C摇杆来观察四周喔！"
+            }
+        },
+        "msg_help_3DS_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboを入れかえると、それぞれの\nトイキャラクターのアビリティをかくにんできるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "在amiibo切换界面上，你可以查看\n每个迷你玩具及其特殊能力的演示。"
+            }
+        },
+        "msg_help_3DS_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターのアビリティを使って\namiiboパスを集め、スターワールドの\nスペシャルステージをオープンしよう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "合理使用迷你玩具的能力，收集amiibo奖牌\n来解锁星星世界的特别关卡吧！"
+            }
+        },
+        "msg_help_3DS_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ゴールドamiiboパスをかくとくすれば\namiiboパスを5まいゲットできるぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "每个1个amiibo金奖牌等价于5个普通奖牌喔！"
+            }
+        },
+        "msg_help_3DS_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターをタッチすると\n少しの間だけダッシュするぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "点击迷你玩具可以让它瞬时加速。"
+            }
+        },
+        "msg_help_3DS_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターがタテ向きのどかんから\n出てくる向きは、どかんに入ったときと同じだぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "向着你进入垂直水管的方向，就能退出水管。"
+            }
+        },
+        "msg_helpHeader_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "1. トロフィー"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "1. 金奖杯"
+            }
+        },
+        "msg_helpHeader_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "2. アイテム"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "2. 道具"
+            }
+        },
+        "msg_helpHeader_03": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "3. スクロール"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "3. 观察四周"
+            }
+        },
+        "msg_helpHeader_04": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "4. amiibo入れかえ画面"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "4. amiibo切换界面"
+            }
+        },
+        "msg_helpHeader_05": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "5. amiiboパス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "5. amiibo奖牌"
+            }
+        },
+        "msg_helpHeader_06": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "6. ゴールドamiiboパス"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "6. amiibo金奖牌"
+            }
+        },
+        "msg_helpHeader_07": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "7. タッチしてダッシュ"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "7. 点击瞬时加速"
+            }
+        },
+        "msg_helpHeader_08": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "8. どかん"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "8. 水管"
+            }
+        }
+    },
+    "mainGame": {
+        "btn_restart": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "リトライ"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "再次尝试"
+            }
+        },
+        "btn_continue": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "つづける"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "继续游戏"
+            }
+        },
+        "btn_exit": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "マップにもどる"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "返回地图"
+            }
+        },
+        "btn_resultsExit": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "マップにもどる"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "返回地图"
+            }
+        },
+        "lbl_level": {
+            "JP_Japanese": {
+                "size": 85,
+                "text": "ステージ"
+            },
+            "ZH_Chinese": {
+                "size": 85,
+                "text": "关卡"
+            }
+        },
+        "msg_exitConfirm": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このステージをやめて\nマップにもどりますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "您真的要放弃当前关卡并返回地图吗？"
+            }
+        },
+        "msg_resourceIntro_01": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "ルートを作ってトイキャラクターを\nゴールまでみちびこう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "搭建出道路\n将迷你玩具引导到终点吧！"
+            }
+        },
+        "msg_resourceIntro_02": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "てっこつパーツをつなぎルートを作ろう!\nてっこつパーツの数がたりないと\nルートを作れないぞ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "连接桥梁拼出道路来吧！\n桥梁数目不足可没法建造道路来喔！"
+            }
+        },
+        "msg_charDoorIntro": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "とくていのトイキャラクターでのみ\nあけることができるamiiboドアから\nせんようステージにすすもう!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "打开特定角色才能打开的amiibo门\n解锁他们的特别关卡吧！"
+            }
+        },
+        "msg_amiiboTokenIntro": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "トイキャラクターのアビリティを使って\namiiboパスを手に入れよう!\nたくさん集めてスターワールドの\nスペシャルステージにちょうせんだ!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "合理使用迷你玩具的能力，获取更多的amiibo奖牌吧！\n达到一定数目后，将有机会挑战星星世界的特别关卡喔！"
+            }
+        },
+        "msg_cantSwapMarioLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニマリオでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "凌特山庄是迷你马力欧的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapDonkeyKongLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニDKでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "炸弹桶丛林是迷你森喜刚的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapPeachLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニピーチでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "气球花园是迷你桃花公主的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapToadLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニキノピオでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蘑菇山丘是迷你奇诺比奥的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapLuigiLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニルイージでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "月光大厦是迷你路易吉的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapBowserLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニクッパでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "火焰城堡是迷你酷霸王的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapRosalinaLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニロゼッタでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "重力银河是迷你罗莎塔的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapYoshiLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニヨッシーでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "蛋蛋发射场是迷你耀西的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapDiddyKongLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージは\nミニディディーコングでのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "矿车湾是迷你迪迪刚的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "msg_cantSwapBowserJrLevel": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "amiiboの入れかえはできません…\nこのステージはミニクッパJr.でのみ\nプレイできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "龙卷风洞穴是迷你酷霸王二世的专属关卡，\n你不能在这里切换amiibo..."
+            }
+        },
+        "btn_replay": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "リトライ"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "再次尝试"
+            }
+        },
+        "btn_done": {
+            "JP_Japanese": {
+                "size": 90,
+                "text": "もどる"
+            },
+            "ZH_Chinese": {
+                "size": 90,
+                "text": "返回"
+            }
+        },
+        "msg_rocketDoorIntro": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "(TEMP) Guide the Mini Toys to the Rocket door so they can blast off to a new world!"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "###TODO###"
+            }
+        },
+        "lbl_resultsScore": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Score"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "Score"
+            }
+        },
+        "btn_retry": {
+            "JP_Japanese": {
+                "size": 78,
+                "text": "リトライ"
+            },
+            "ZH_Chinese": {
+                "size": 78,
+                "text": "再次尝试"
+            }
+        }
+    },
+    "playReport": {
+        "btn_shareDataOn": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いつの間に通信：ON"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "数据共享：ON"
+            }
+        },
+        "btn_shareDataOff": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いつの間に通信：OFF"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "数据共享：OFF"
+            }
+        },
+        "msg_playReportConfirm": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "【いつの間に通信】\nプレイじょうきょうのきろくを\n任天堂に送信します。\nお送りいただいた情報は\nりようきやくにもとづき\n取りあつかいます。\n\nいつの間に通信をONにしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "【数据共享】\n开启后，玩家游玩状态的记录会发送给任天堂。\n具体请参见任天堂游戏使用条约。\n要打开数据共享吗？"
+            }
+        },
+        "msg_playReportDeclined": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いつの間に通信は\nヘルプメニューからONにできます。\nヘルプメニューへはマップから\nアクセスできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "数据共享可在帮助菜单中开启。\n帮助菜单可在地图界面进入。"
+            }
+        },
+        "msg_playReportCreated": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "いつの間に通信の設定は\nヘルプメニューから変えられます。\nヘルプメニューへはマップから\nアクセスできます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "数据共享设置在帮助菜单中变更了。\n帮助菜单可在地图界面进入。"
+            }
+        },
+        "msg_playReportActivated": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "【いつの間に通信】\nプレイじょうきょうのきろくを\n任天堂に送信します。\nお送りいただいた情報は\nりようきやくにもとづき\n取りあつかいます。\n\nいつの間に通信をONにしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "【数据共享】\n开启后，玩家游玩状态的记录会发送给任天堂。\n具体请参见任天堂游戏使用条约。\n要打开数据共享吗？"
+            }
+        },
+        "msg_playReportDeactivated": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "【いつの間に通信】\nいつの間に通信をOFFにすると\nプレイじょうきょうのきろくは\n任天堂に送信されません。\n\nいつの間に通信をOFFにしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "【数据共享】\n关闭数据共享后，任天堂将无法收到玩家游玩状态的记录。\n要关闭数据共享吗？"
+            }
+        }
+    },
+    "saveMemory": {
+        "msg_preparingSaveData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブデータをじゅんび中…"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在准备存档数据..."
+            }
+        },
+        "msg_corruptSaveData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブデータがこわれています。\nセーブデータをしょきかします。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "存档数据已损坏。\n存档将被重置。"
+            }
+        },
+        "msg_creatingExtraData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "追加データを作っています。\nSDカードをぬかないでください｡"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在创建额外数据。\n请不要拔出SD卡。"
+            }
+        },
+        "msg_accessingExtraData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードをよみこんでいます。\nSDカードをぬかないでください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在访问SD卡。\n请不要拔出SD卡。"
+            }
+        },
+        "msg_corruptExtraData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "追加データがこわれています。\n追加データを作りなおしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "额外数据已损坏。\n是否要创建新的额外数据？"
+            }
+        },
+        "msg_noFreeSpaceSDCard": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードのあきようりょうが\nたりないため、追加データを\nさくせいできません。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "SD卡上没有足够的可用空间。\n无法创建额外数据。"
+            }
+        },
+        "msg_writeProtectedSDCard": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードが書きこみきんしに\nなっているため、追加データを\nさくせいできません。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "SD卡被写保护了。\n无法创建额外数据。"
+            }
+        },
+        "msg_archiveReadOnlySDCard": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードおよび追加データに\nアクセスできないため\nいつの間に通信をOFFにします。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "由于无法访问SD卡和额外数据，\n数据共享已关闭。"
+            }
+        },
+        "msg_cantPlayProblemSDCard": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードにもんだいがあるため\nいつの間に通信をOFFにします。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "由于SD卡发生错误，\n数据共享已关闭。"
+            }
+        },
+        "msg_cantPlayExtraDataUnavailable": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "追加データをりようできないため\nいつの間に通信をOFFにします。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "由于额外数据不可用，\n数据共享已关闭。"
+            }
+        },
+        "msg_checkSDCard": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "電源を切って\nSDカードをかくにんするか\nHOMEボタンをおして\nHOMEメニューにもどってください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "关闭电源并检查您的SD卡，\n或按HOME按钮返回桌面。"
+            }
+        },
+        "msg_problemSavingSDCard": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードにセーブ中、\nもんだいが発生しました。\nSDカードをかくにんする前に\nかならず電源を切ってください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "保存到SD卡出错。\n请关闭电源并检查SD卡。"
+            }
+        },
+        "msg_resetData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブデータと追加データを\nしょきかしますか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "您要格式化存档数据和额外数据吗？"
+            }
+        },
+        "msg_resetDataConfirm": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "本当にセーブデータと追加データを\nしょきかしてもよろしいですか?\nしょきかするとこのソフトのセーブ\nデータはすべてさくじょされます。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "确定要格式化存档数据和额外数据吗？\n这将会删除全部的存档数据。"
+            }
+        },
+        "msg_cantPlayNoSDCard": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードが見つかりません。\nゲームをかいしできません。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "找不到SD卡。\n游戏无法启动。"
+            }
+        },
+        "msg_savingExtraData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "セーブしています。\nSDカードをぬかないでください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在保存中。\n请不要拔出SD卡。"
+            }
+        },
+        "msg_deletingExtraData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "さくじょしています。\nSDカードをぬかないでください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "正在删除。\n请不要拔出SD卡。"
+            }
+        },
+        "msg_nnidChangedExtraData": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "このSDカードの追加データは\nべつのニンテンドーネットワークIDで\nとうろくされています。\nデータをさくじょして作りなおしますが\nよろしいですか?"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "此SD卡的额外数据是由其他的任天堂ID登录创建的。\n您希望删除这些数据并重新创建吗？"
+            }
+        },
+        "msg_noPersonalMii": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "Miiが見つかりません。\nMiiはMiiスタジオで\n新しく作ることができます。\nHOMEボタンをおして\nHOMEメニューにもどってください。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "找不到Mii。\nMii可在Mii Studio处重新创建。\n请按下HOME按钮回到开始菜单。"
+            }
+        },
+        "msg_corruptExtraDataReplaced": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "こわれた追加データが見つかりました。\nこわれた追加データをしょきかします。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "检查到已损坏的额外数据。\n即将删除这些损坏数据。"
+            }
+        },
+        "msg_noFreeSpaceSDCardNoContinue": {
+            "JP_Japanese": {
+                "size": 100,
+                "text": "SDカードのあきようりょうが\nたりないため\nいつの間に通信をOFFにします。"
+            },
+            "ZH_Chinese": {
+                "size": 100,
+                "text": "SD卡上没有足够的可用空间。\n数据共享将被关闭。"
+            }
+        }
+    }
+}
